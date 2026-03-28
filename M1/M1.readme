@@ -1,1 +1,13 @@
 
+### Preliminary EDA
+#### Contestants and Outcomes
+- Winners are predominantly US men around age 30-40 in different professions, suggesting a recurring “champion profile” rather than random outcomes.
+- Days lasted are highly skewed, with many early exits and a few extreme long-duration outliers.
+- Medical tap-outs tend to occur after longer stays than family or personal exits, indicating different physical versus psychological limits.
+#### Environment and Survival Conditions
+- Filming locations (e.g., Quatsino, Patagonia, Great Slave Lake) vary in average days lasted, number of survivalists, and medical evacuation rates, implying location-specific survival profiles.
+- Season number is strongly correlated (~0.8) with latitude/longitude, as later seasons move into different geographic and difficulty bands.
+#### Audience Response
+- Viewership declines after Season 1 while IMDb ratings remain relatively stable, indicating strong initial interest but weaker long-term retention.
+- Episodes featuring intense survival moments (multiple tap-outs, late-stage survival) often align with local peaks in viewership and ratings, suggesting high-intensity content is more engaging.
+  
